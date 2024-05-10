@@ -1,0 +1,22 @@
+# 版本
+Vesion: 1.0
+
+
+imagePath: ../cms_images
+
+savePath: ../cms_images_out
+
+modelPath:  ../models/_1214_best-sim_210.dlc
+classNamesPath: ../models/coco.names
+
+# DOW(开门预警 )  xyxy
+DOW_ROI: [200, 450, 840, 840]
+
+
+# BSD(盲区预警 )
+
+
+BSD_ROI: [600, 300, 900, 700]
+
+
+
