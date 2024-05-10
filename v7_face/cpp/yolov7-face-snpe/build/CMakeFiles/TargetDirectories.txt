@@ -1,0 +1,4 @@
+/home/ymm/Yoloface_DNN/yolov7-face/cpp/yolov7-face-snpe/build/CMakeFiles/rebuild_cache.dir
+/home/ymm/Yoloface_DNN/yolov7-face/cpp/yolov7-face-snpe/build/CMakeFiles/edit_cache.dir
+/home/ymm/Yoloface_DNN/yolov7-face/cpp/yolov7-face-snpe/build/CMakeFiles/dnn_face.dir
+/home/ymm/Yoloface_DNN/yolov7-face/cpp/yolov7-face-snpe/build/CMakeFiles/snpe_face.dir
